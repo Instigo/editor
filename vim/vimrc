@@ -1,0 +1,8 @@
+set nocompatible
+set bs=2
+set columns=110
+set background=dark
+set t_Co=256
+syntax on
+syntax enable
+colorscheme molokai
